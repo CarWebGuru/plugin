@@ -1,5 +1,4 @@
-# plugin
-CarWebGuru Plugin
+# CarWebGuru plugin library
 
 This library is for creating CarWebGuru app plugins. Using the plugin, you can add widgets to the CarWebGuru and manage the data that will be displayed by the widgets.
 
